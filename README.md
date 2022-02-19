@@ -1,2 +1,4 @@
 # odin-recipes
-This will be a top to bottom HTML website created based on TheOdinProject guidelines. Let's see how it goes
+This will be a HTML4 looking website. Created based on TheOdinProject guidelines.
+
+It's mostly text with some images.
